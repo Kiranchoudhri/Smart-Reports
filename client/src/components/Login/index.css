@@ -1,0 +1,74 @@
+.loginWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+}
+
+.loginContainer {
+    width: 25%;
+    min-height: 50%;
+    border: 1px solid black;
+    border-radius: 16px;
+    padding: 40px 30px;
+}
+
+.heading {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+
+.usernameSection, .passwordSection {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;
+}
+
+.passwordSection {
+    margin-bottom: 20px;
+}
+
+.nameInput, .passwordInput {
+    padding: 6px 10px; 
+    margin-top: 6px;
+}
+
+.showPasswordSection {
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.passCheckbox {
+    margin-right: 8px;
+}
+
+.buttonSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttonElement {
+    border-width: 0px;
+    padding: 10px 20px; 
+    border-radius: 6px;
+    background-color: aqua;
+    width: 100%;
+    cursor: pointer;
+} 
+
+.signupSection {
+    margin-top: 10px;
+} 
+
+.signupLink {
+    margin-left: 8px;
+    text-decoration: none;
+}
+
+.errorMessage {
+    margin: 10px 0px;
+    color: red;
+}

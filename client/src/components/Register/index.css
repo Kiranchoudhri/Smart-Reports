@@ -1,0 +1,25 @@
+.additionalDetails {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 16px;
+}
+
+
+.ageField {
+    width: 30px;
+    margin-left: 6px;
+}
+
+.genderSection {
+    display: flex;
+}
+
+.genderTitle {
+    margin-right: 6px;
+}
+
+.errorMessage {
+    margin: 10px 0px;
+    color: red;
+}

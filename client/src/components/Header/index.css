@@ -1,0 +1,37 @@
+.headerSection {
+  padding: 20px 60px;
+  background-color: #69cfc2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.userGreeting {
+  font-size: 30px;
+}
+
+.navbar {
+  width: 30%;
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+
+.navItem {
+  text-decoration: none;
+  padding: 10px;
+  font-size: 20px;
+  color: black;
+  margin-right: 20px;
+  font-weight: 700;
+}
+
+.logoutButton {
+  border-width: 0px;
+  padding: 8px 24px;
+  background-color: #eb877a;
+  border-radius: 20px;
+  font-size: 20px;
+  font-weight: 600;
+  cursor: pointer;
+}

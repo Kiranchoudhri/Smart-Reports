@@ -1,0 +1,35 @@
+.homeContainer {
+  padding-left: 30px;
+  padding-bottom: 50px;
+  background-color: #d2e4f7;
+}
+
+.homeTitle1,
+.homeTitle2 {
+  font-size: 30px;
+  padding: 10px;
+  color: #4e0c7d;
+}
+
+.reportCategories {
+  margin-top: 20px;
+}
+
+.reportButton {
+  padding: 8px 16px;
+  border: 1px solid black;
+  border-radius: 16px;
+  font-size: 20px;
+  margin-right: 10px;
+  background-color: #ffffff;
+}
+
+.reportButton:hover {
+  background-color: black;
+  color: #ffffff;
+}
+
+.activeButton {
+  background-color: black;
+  color: #ffffff;
+}

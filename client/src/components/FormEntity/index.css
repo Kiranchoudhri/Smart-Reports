@@ -1,0 +1,33 @@
+.testEntity {
+  display: flex;
+  padding: 16px;
+  margin-bottom: 8px;
+  background-color: #cacdcf;
+  align-items: center;
+}
+
+.serial {
+  width: 10%;
+  text-align: center;
+}
+
+.testName {
+  width: 50%;
+  padding-top: 12px;
+}
+
+.testValueContainer {
+  width: 20%;
+  text-align: center;
+  margin-right: 30px;
+}
+
+.testValue {
+  width: 60%;
+  padding: 4px;
+}
+
+.nomalValues {
+  width: 20%;
+  text-align: center;
+}

@@ -1,0 +1,68 @@
+.userTestForm {
+  width: 800px;
+  margin-top: 30px;
+}
+.tableHeaders {
+  display: flex;
+  padding: 16px;
+  font-size: 18px;
+  font-weight: 700;
+  background-color: #0a9dff;
+}
+
+.serialNum {
+  width: 10%;
+}
+
+.testTitle {
+  width: 50%;
+}
+
+.valueTitle,
+.normalRange {
+  width: 20%;
+  text-align: center;
+}
+
+.valueTitle {
+  margin-right: 30px;
+}
+
+.formBtnContainer {
+  padding: 16px 0px 20px 40px;
+}
+
+.formButton {
+  padding: 12px 30px;
+  border-width: 0px;
+  background-color: #366da8;
+  color: white;
+  border-radius: 16px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.downloadBtnContainer {
+  padding-left: 40px;
+  margin-bottom: 20px;
+}
+
+.modalContainer {
+  width: 500px;
+  height: 300px;
+  border-radius: 20px;
+}
+
+.successMsg {
+  text-align: center;
+  font-size: 20px;
+  color: #1b7a33;
+}
+
+.reportDownloadBtn {
+  border-width: 0px;
+  border-radius: 16px;
+  background-color: #1c6ced;
+  color: white;
+  padding: 10px 20px;
+}

@@ -1,0 +1,114 @@
+.pageContainer {
+  padding: 40px 50px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.companyName {
+  font-size: 30px;
+  color: #6257b3;
+}
+
+.contactItem {
+  margin-bottom: 8px;
+  color: #578bb3;
+}
+
+.basicInfoSection {
+  padding: 10px 0px;
+  display: flex;
+  font-size: 14px;
+  justify-content: space-between;
+  margin-top: 8px;
+  border-top: 1px solid #302c33;
+  border-bottom: 1px solid #302c33;
+}
+
+.infoTitle {
+  padding: 4px;
+}
+
+.testDescription {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #e6e6e6;
+  font-size: 14px;
+}
+.testName {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.indicators {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+
+.label {
+  margin-right: 10px;
+  padding: 6px 10px;
+  border-radius: 16px;
+  font-size: 12px;
+}
+
+.normal {
+  color: #0a632c;
+  background-color: #61c788;
+}
+
+.abnormal {
+  color: #d14226;
+  background-color: #e68f7e;
+}
+
+.borderline {
+  color: #cfa723;
+  background-color: #edd37e;
+}
+
+.resultsTable {
+  margin-top: 10px;
+  font-size: 12px;
+}
+
+.tableHeader {
+  background-color: #8682ed;
+  padding: 10px;
+  display: flex;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.twoSection {
+  width: 60%;
+  display: flex;
+  justify-content: space-between;
+}
+.oneSection {
+  width: 40%;
+  text-align: center;
+}
+
+.valueHeader {
+  font-size: 12px;
+  margin: 6px 0px;
+  background-color: #edebeb;
+}
+
+.insights {
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.riskTitle {
+  color: #cf4b3a;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.suggestions {
+  margin-top: 6px;
+}
